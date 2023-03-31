@@ -1,0 +1,84 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+.firstText{
+    padding-top: 145px;
+}
+.firstText p{
+    font-size: 25px;
+}
+.firsrWebsite{
+    display: flex;
+
+}
+.iPhone{
+    width: 50%;
+    height: 80%;
+    padding-top: 66px;
+    float: right;
+}
+.getStarted{
+    
+    background-color: deepskyblue;
+    border: none;
+    padding: 8px 19px;
+    border-radius: 17px;
+    color: white;
+    font-size: 11px;
+}
+.getStarted:hover{
+    background-color:dodgerblue;
+
+}
+.music{
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: inherit;
+    top: -80px; 
+    z-index: -1;
+}
+.musicSetting{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.musicMain{
+    display: flex;
+    padding: 225px 0px;
+}
+.positions{
+    position: relative;
+}
+.endSection{
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.endImage{
+    text-align: center;
+    color: white; 
+    padding-top: 125px;
+    padding-bottom: 200px;
+
+}
+.endImage p{
+    padding: 0px 150px;
+}
+.imageDouble{
+display: flex;
+}
+.Rectangle{
+    border: 2px dashed;
+    padding: 100px 126px !important;
+    margin-top: 60px;
+
+}
+.imageSetting{
+    margin-right: 158px;
+    margin-left: 42px;
+
+}
